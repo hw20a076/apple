@@ -2,9 +2,7 @@
 
 ## FPS
 ・Apex
-
 ・Valorant
-
 ・Over Watch
 
 ## New Word2
@@ -15,6 +13,9 @@
 
 ## PATの虚偽報告
 ・上のPATは使用できないtokenなのでご自由にどうぞ
+
+## PATの保存方法
+・誰にも言わないように覚えておく
 
 ## New Text
 ・ローカルでの追加テキスト
