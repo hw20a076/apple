@@ -13,6 +13,8 @@
 ## New PAT
 ・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
 
+## PATの虚偽報告
+・上のPATは使用できないtokenなのでご自由にどうぞ
 
 ## New Text
 ・ローカルでの追加テキスト
