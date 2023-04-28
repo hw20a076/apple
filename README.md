@@ -1,27 +1,27 @@
 # 自己紹介
 
 ## FPS
-・Apex
-・Valorant
-・Over Watch
+-Apex
+-Valorant
+-Over Watch
 
 ## New Word2
-・新しく追加した行Part2
+-新しく追加した行Part2
 
 ## New PAT
-・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
+-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
 
 ## PATの虚偽報告
-・上のPATは使用できないtokenなのでご自由にどうぞ
+-上のPATは使用できないtokenなのでご自由にどうぞ
 
 ## PATの保存方法
-・誰にも言わないように覚えておく
+-誰にも言わないように覚えておく
 
 ## New Text
-・ローカルでの追加テキスト
-・ローカルでの追加テキストPart2
+-ローカルでの追加テキスト
+-ローカルでの追加テキストPart2
 
 ## New Word
-・新しく追加した行
-・さらに追加した行
+-新しく追加した行
+-さらに追加した行
 
